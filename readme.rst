@@ -1,1 +1,1 @@
-
+This Codeigniter project is listing (not Mysql's default databases like "information_schema" etc.) and exporting (multi) your databases on your current server (the server that, this project working on). In the end exported databases is ready to import to Mysql server. Detailed and visualized document will be added very soon.
